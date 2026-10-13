@@ -10,7 +10,7 @@ My interests include systems administration, infrastructure, networking, automat
 - Digital Camera Repair - Learning hands-on hardware diagnostics, repair techniques, and electronics troubleshooting.
 
 ## 📚 Previous Projects
-My repositories also include projecs from my undergraduate Computer Science coursework. Some older projects may have less documentation, as I'm gradually organizing and improving my portfolis. 
+My repositories also include projecs from my undergraduate Computer Science coursework. Some older projects may have less documentation, as I'm gradually organizing and improving my portfolio. 
 
 I am focused on continuous learning, practical problem-solving, and building reliable technical solutions. 
 <!--
